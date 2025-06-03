@@ -81,12 +81,6 @@ HTML ile oluşturulmuş sade bir arayüz aşağıdaki bölümlerden oluşur:
 
 ---
 
-## 🖼️ Ekran Görüntüleri
-
-![Açıklayıcı başlık]
-
-
----
 
 ## 🛠️ Kullanılan Teknolojiler
 
@@ -119,5 +113,5 @@ Gelecekte yapılabilecek geliştirmeler:
 ## 🎥 Demo & Kaynak
 
 - 🔗 **Demo Videosu**: [https://youtu.be/EiaUfOrArAE](https://youtu.be/EiaUfOrArAE)  
-- 🧷 **GitHub Linki**: *(Lütfen buraya ekleyin)*
+- 🧷 **GitHub Linki**: https://github.com/RabiaCelep/Hamming_Code_Simulator
 
